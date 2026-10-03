@@ -1,0 +1,21 @@
+langchain
+langchain-community 
+langchain-openai
+langchain-experimental
+python-dotenv
+langchain_ollama
+reportlab
+langchain-google-genai
+google-generativeai
+flask
+flask-cors
+groq
+requests
+transformers
+accelerate
+bitsandbytes
+peft
+--index-url https://download.pytorch.org/whl/cu121
+torch
+torchvision
+torchaudio
